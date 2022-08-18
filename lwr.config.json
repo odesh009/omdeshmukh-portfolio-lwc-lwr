@@ -31,5 +31,6 @@
         "syntheticShadow": true
       }
     }
-  ]
+  ],
+  "port": 3000
 }
